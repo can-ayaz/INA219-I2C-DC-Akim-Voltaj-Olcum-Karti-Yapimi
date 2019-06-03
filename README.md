@@ -5,4 +5,4 @@
 
 Merhaba, Bu yazımızda bir IoT projemde güç tüketimini hesaplamak ihtiyacı duydum ve projeme en uygun olan Texas Instruments üretimi olan INA219 entegresini kullnarak bir PCB tasarladıktan sonra akım ve voltaj ölçüp I²C  protoklü üzerinden  %1 hassasiyetle ölçeceğiz.
 
-**Daha Fazlası için; https://canayazblog.wordpress.com/2018/06/22/arduino-otto-robot-yapimi/**
+**Daha fazlası içi ziyaret edebilirsiniz: https://canayazblog.wordpress.com/**
